@@ -13,7 +13,6 @@ import junit.framework.Assert;
 public class PdfReading {
 public static void main(String[] args) throws IOException {
 	
-	Object o=new Object();
 	
 	File file= new File("C:\\Users\\Nishant\\Desktop\\Rohit Automation REsume\\RohitResume(2.5).pdf");
 	
